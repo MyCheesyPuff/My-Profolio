@@ -12,14 +12,14 @@
 .my-logo {
   width: 76px;
   height: 20px;
-  font-family: 'Poppins';
+  font-family: 'Poppins', Arial, sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 20px;
   display: flex;
   align-items: center;
   text-align: center;
-  color: #6070FF;
+  color: #6070ff;
   padding: 10px 12px;
 }
 
@@ -37,7 +37,7 @@
   width: 22px;
   height: 2.5px;
   margin-bottom: 3px;
-  background-color: #6070FF;
+  background-color: #6070ff;
 }
 
 /* Media query for mobile devices with a minimum width of 375px */
